@@ -40,6 +40,7 @@ public class TestePessoa {
 		p2.correr();
 		p2.vingadores();
 		p2.universoMarvel();
+		
 		p2.investiga();
 
 	}
